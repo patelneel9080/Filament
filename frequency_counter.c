@@ -12,8 +12,7 @@ int main() {
     {
         length = length + 1;
     }
-    
-    
+     
     for (i = 0; a[i] != '\0'; i++) {
        count = 0;
        
